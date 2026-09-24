@@ -1,0 +1,14 @@
+# Shranjena glasba
+muzika/
+*.mp3
+*.m4a
+*.webp
+*.jpg
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
